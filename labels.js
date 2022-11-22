@@ -17,6 +17,6 @@ bucleDecenas: while(true){
     decenas++
     
 }
+console.log('ya hemos terminado')
 
 // dentro de un mismo bucle podemos afectar a bucles externos
-
