@@ -17,3 +17,6 @@ bucleDecenas: while(true){
     decenas++
     
 }
+
+// dentro de un mismo bucle podemos afectar a bucles externos
+
